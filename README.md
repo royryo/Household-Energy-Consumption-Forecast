@@ -1,4 +1,4 @@
-# Household Energy Consumption Forecast
+# Household Energy Load Forecast
 
 ## What is this project? 
 Tokyo is facing an energy crisis with an increasing pressure to shift away from oil and fossil fuel. We propose a program that citizens can calculate and predict their energy consumption to contribute to reducing energy demands at its highest peaks. The forecast model uses open data from the [Tokyo Metropolitan Government](https://catalog.data.metro.tokyo.lg.jp/dataset).
