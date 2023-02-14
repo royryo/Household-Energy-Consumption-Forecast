@@ -1,7 +1,7 @@
 # Household Energy Load Forecast
 
 ## What is this project? 
-Tokyo is facing an energy crisis with an increasing pressure to shift away from oil and fossil fuel. We propose a program that citizens can calculate and predict their energy consumption to contribute to reducing energy demands at its highest peaks. The forecast model uses open data from the [Tokyo Metropolitan Government](https://catalog.data.metro.tokyo.lg.jp/dataset).
+Tokyo is facing an energy crisis with an increasing pressure to shift away from oil and fossil fuel. We propose a program that citizens can calculate and predict their energy consumption to contribute to reducing energy demands at its highest peaks. The forecast model uses open data from the [Tokyo Metropolitan Government](https://catalog.data.metro.tokyo.lg.jp/dataset). The project is on halt because of personal circumstances of the participating members. 
 
 ## The statistical model 
 The program is based on the SVR model from a paper written by [Shen et. al](https://www.sciencedirect.com/science/article/pii/S1876610217359520?fr=RR-2&ref=pdf_download&rr=737df4bc893d80fb), and predicts with: 
